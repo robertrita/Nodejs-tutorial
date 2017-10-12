@@ -5,6 +5,7 @@
 [node-demo]
 [node-demo]/[node_modules]
 [node-demo]/app.js
+[node-demo]/index.html
 [node-demo]/package.json
 
 #========================================================

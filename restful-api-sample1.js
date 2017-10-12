@@ -1,6 +1,13 @@
 /*
 #Build a RESTful API in 5 Minutes with NodeJS - Updated - YouTube
 #https://www.youtube.com/watch?v=p-x6WdwaJco
+[rest]
+[rest]/[node_modules]
+[rest]/[models]/product.js
+[rest]/[routes]/api.js
+[rest]/server.js
+[rest]/package.json
+
 #========================================================
 1) Check for installers:
 $ node -v

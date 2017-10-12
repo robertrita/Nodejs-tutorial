@@ -1,12 +1,10 @@
 /*
 #Using Node.js & Express.js to save data to MongoDB Database
 #https://medium.com/@ratracegrad/hitchhikers-guide-to-back-end-development-with-examples-3f97c70e0073
-[rest]
-[rest]/[node_modules]
-[rest]/[models]/product.js
-[rest]/[routes]/api.js
-[rest]/server.js
-[rest]/package.json
+[node-demo]
+[node-demo]/[node_modules]
+[node-demo]/app.js
+[node-demo]/package.json
 
 #========================================================
 1) Check for installers:
